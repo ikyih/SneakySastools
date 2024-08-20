@@ -12,4 +12,3 @@ Go [Here](https://github.com/ikyih/SneakySastools/releases/).
 
 ## Screenshots 
 ![Title Screen](Screenshot 2024-08-20 at 12.41.38 PM.png "Title Screen")
-![](https://github.com/ikyih/Sneaky_Sasquatch_No_Bad_Word_Filter/blob/main/images/ss.png?raw=true)
