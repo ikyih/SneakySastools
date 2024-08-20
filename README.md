@@ -12,3 +12,4 @@ Go [Here](https://github.com/ikyih/SneakySastools/releases/).
 
 ## Screenshots 
 ![Title Screen](https://raw.githubusercontent.com/ikyih/SneakySastools/main/Screenshot%202024-08-20%20at%2012.42.03%E2%80%AFPM.png)
+![sasquatch.stuff editor](https://raw.githubusercontent.com/ikyih/SneakySastools/main/Screenshot%202024-08-20%20at%2012.41.38%E2%80%AFPM.png)
