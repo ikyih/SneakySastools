@@ -10,3 +10,6 @@ Go to your macintosh hd location on your mac then open the Users folder. In ther
 ## Downloading The Program
 Go [Here](https://github.com/ikyih/SneakySastools/releases/).
 
+## Screenshots 
+![Title](https://github.com/ikyih/SneakySastools/blob/main/Screenshot 2024-08-20 at 12.42.03 PM.png?raw=true)
+![Sasquatch.stuff Editor](https://github.com/ikyih/SneakySastools/blob/main/Screenshot 2024-08-20 at 12.41.38 PM.png?raw=true)
