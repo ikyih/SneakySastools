@@ -11,5 +11,5 @@ Go to your macintosh hd location on your mac then open the Users folder. In ther
 Go [Here](https://github.com/ikyih/SneakySastools/releases/).
 
 ## Screenshots 
-![Title](https://github.com/ikyih/SneakySastools/blob/main/Screenshot 2024-08-20 at 12.42.03 PM.png?raw=true)
-![Sasquatch.stuff Editor](https://github.com/ikyih/SneakySastools/blob/main/Screenshot 2024-08-20 at 12.41.38 PM.png?raw=true)
+![Title Screen](https://raw.githubusercontent.com/ikyih/SneakySastools/main/Screenshot%202024-08-20%20at%2012.42.03%E2%80%AFPM.png)
+![sasquatch.stuff editor](https://raw.githubusercontent.com/ikyih/SneakySastools/main/Screenshot%202024-08-20%20at%2012.41.38%E2%80%AFPM.png)
